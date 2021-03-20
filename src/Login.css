@@ -1,0 +1,22 @@
+#login-form {
+        width: max-content;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 200px auto;
+        background-color: aliceblue;
+        border-radius: 5px;
+        padding: 20px;
+}
+#login-form div
+{
+    padding:5px;
+}
+#submit-button
+{
+    width:100px;
+    height: max-content;
+    margin-top:10px;
+    color:black;
+}
